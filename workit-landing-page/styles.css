@@ -349,11 +349,10 @@ section {
   border-bottom: var(--underline);
 }
 
-.primary-header__inner > img {
-  position: absolute;
-}
+
 
 .primary-header__inner > img {
+  position: absolute;
   object-fit: cover;
   height: 11rem;
   left: 0;
